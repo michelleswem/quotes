@@ -1,5 +1,6 @@
 
-## This is a simlpe project that allow users to add quotes, comments and view quotes.
+## This is a simlpe project that allow users to add quotes and comments and view those added quotes and comments.
+### preview link:https://quotes-app1.netlify.app/quotes
 
 # Getting Started with Create React App
 
